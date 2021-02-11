@@ -58,5 +58,5 @@ import matplotlib.pyplot as plt
 plt.scatter(mo[0][:,0], mo[0][:,1], c=mo[1], s=1)
 plt.show()
 ```
-![plot](/img/moon.png)
+![plot](/hedwig_explains/img/moon.png)
 

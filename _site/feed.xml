@@ -5,8 +5,8 @@
     <description>A healthy mind is an inquisitive mind</description>
     <link>https://hiteshhedwig.github.io/hedwig_explains/</link>
     <atom:link href="https://hiteshhedwig.github.io/hedwig_explains/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2021 14:26:40 +0530</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2021 14:26:40 +0530</lastBuildDate>
+    <pubDate>Thu, 11 Feb 2021 14:45:40 +0530</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 14:45:40 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -77,7 +77,7 @@ import matplotlib.pyplot as plt
 plt.scatter(mo[0][:,0], mo[0][:,1], c=mo[1], s=1)
 plt.show()
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;&lt;img src=&quot;/img/moon.png&quot; alt=&quot;plot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/hedwig_explains/img/moon.png&quot; alt=&quot;plot&quot; /&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0530</pubDate>
