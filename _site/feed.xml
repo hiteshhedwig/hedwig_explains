@@ -3,10 +3,10 @@
   <channel>
     <title>Hedwig Explains</title>
     <description>A healthy mind is an inquisitive mind</description>
-    <link>https://hiteshhedwig.github.io/trail1/</link>
-    <atom:link href="https://hiteshhedwig.github.io/trail1/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2021 14:16:51 +0530</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2021 14:16:51 +0530</lastBuildDate>
+    <link>https://hiteshhedwig.github.io/hedwig_explains/</link>
+    <atom:link href="https://hiteshhedwig.github.io/hedwig_explains/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 11 Feb 2021 14:26:40 +0530</pubDate>
+    <lastBuildDate>Thu, 11 Feb 2021 14:26:40 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -81,8 +81,8 @@ plt.show()
 
 </description>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0530</pubDate>
-        <link>https://hiteshhedwig.github.io/trail1/2021/02/11/intuition-behind-random-forest/</link>
-        <guid isPermaLink="true">https://hiteshhedwig.github.io/trail1/2021/02/11/intuition-behind-random-forest/</guid>
+        <link>https://hiteshhedwig.github.io/hedwig_explains/2021/02/11/intuition-behind-random-forest/</link>
+        <guid isPermaLink="true">https://hiteshhedwig.github.io/hedwig_explains/2021/02/11/intuition-behind-random-forest/</guid>
         
         <category>randomforest</category>
         
@@ -98,8 +98,8 @@ plt.show()
         <description>
 </description>
         <pubDate>Wed, 10 Feb 2021 00:00:00 +0530</pubDate>
-        <link>https://hiteshhedwig.github.io/trail1/2021/02/10/hello-2021/</link>
-        <guid isPermaLink="true">https://hiteshhedwig.github.io/trail1/2021/02/10/hello-2021/</guid>
+        <link>https://hiteshhedwig.github.io/hedwig_explains/2021/02/10/hello-2021/</link>
+        <guid isPermaLink="true">https://hiteshhedwig.github.io/hedwig_explains/2021/02/10/hello-2021/</guid>
         
         <category>trail1</category>
         
@@ -178,8 +178,8 @@ plt.show()
 
 </description>
         <pubDate>Thu, 29 Jan 2015 17:30:00 +0530</pubDate>
-        <link>https://hiteshhedwig.github.io/trail1/2015/01/29/hello-2015/</link>
-        <guid isPermaLink="true">https://hiteshhedwig.github.io/trail1/2015/01/29/hello-2015/</guid>
+        <link>https://hiteshhedwig.github.io/hedwig_explains/2015/01/29/hello-2015/</link>
+        <guid isPermaLink="true">https://hiteshhedwig.github.io/hedwig_explains/2015/01/29/hello-2015/</guid>
         
         <category>life</category>
         

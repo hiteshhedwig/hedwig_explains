@@ -6,7 +6,7 @@ email: hitesh.kumar61@yahoo.com
 description: "A healthy mind is an inquisitive mind"
 keyword: "AI, Machine Learning"
 url: "https://hiteshhedwig.github.io"              # your host, for absolute URL
-baseurl: "/trail1"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/hedwig_explains"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
