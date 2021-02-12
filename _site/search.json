@@ -17,6 +17,14 @@
     } ,
   
     {
+      "title"    : "Changing Folder Name for model training",
+      "subtitle" : "A very basic tutorial for changing file names",
+      "tags"     : "python, filename, datascience, dog-breed",
+      "url"      : "/hedwig_explains/2020/10/20/changing-folder-name-for-model-training/",
+      "date"     : "2020-10-20 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Hello 2015",
       "subtitle" : " &quot;Hello World, Hello Blog&quot;",
       "tags"     : "life, cv",
