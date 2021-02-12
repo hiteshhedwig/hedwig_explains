@@ -9,14 +9,6 @@
     } ,
   
     {
-      "title"    : "Hello 2021",
-      "subtitle" : "Hello World, Hellow Blog",
-      "tags"     : "trail1, cv, life",
-      "url"      : "/hedwig_explains/2021/02/10/hello-2021/",
-      "date"     : "2021-02-10 00:00:00 +0530"
-    } ,
-  
-    {
       "title"    : "Changing Folder Name for model training",
       "subtitle" : "A very basic tutorial for changing file names",
       "tags"     : "python, filename, datascience, dog-breed",
@@ -25,11 +17,11 @@
     } ,
   
     {
-      "title"    : "Hello 2015",
-      "subtitle" : " &quot;Hello World, Hello Blog&quot;",
-      "tags"     : "life, cv",
-      "url"      : "/hedwig_explains/2015/01/29/hello-2015/",
-      "date"     : "2015-01-29 17:30:00 +0530"
+      "title"    : "Biggest Dataset on Internet",
+      "subtitle" : "Almost every dataset you can find here",
+      "tags"     : "dataset, opensource",
+      "url"      : "/hedwig_explains/2020/10/12/biggest-dataset-on-internet/",
+      "date"     : "2020-10-12 00:00:00 +0530"
     } 
   
 ]
