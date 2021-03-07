@@ -2,7 +2,7 @@
 layout: post
 title: "[Spirituality] Contemplating on Great Verses By Yogi Vasistha"
 subtitle: "Great verses"
-date: 2021-10-14
+date: 2020-10-14
 author: "Hitesh Kumar"
 header-img: "img/candle.jpg"
 tags: [spirituality, contemplating_series]

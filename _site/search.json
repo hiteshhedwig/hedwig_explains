@@ -1,14 +1,6 @@
 [
   
     {
-      "title"    : "[Spirituality] Contemplating on Great Verses By Yogi Vasistha",
-      "subtitle" : "Great verses",
-      "tags"     : "spirituality, contemplating_series",
-      "url"      : "/hedwig_explains/2021/10/14/contemplating-on-great-verses-by-yogi-vasistha/",
-      "date"     : "2021-10-14 00:00:00 +0530"
-    } ,
-  
-    {
       "title"    : "Intuition behind Random Forest",
       "subtitle" : "Explaining random forest from scratch",
       "tags"     : "randomforest, datascience, intuition",
@@ -17,11 +9,27 @@
     } ,
   
     {
+      "title"    : "Implementation of Xception Model",
+      "subtitle" : "Paper and Pytorch Code discussion",
+      "tags"     : "code, researchpaper, intuition",
+      "url"      : "/hedwig_explains/2020/10/28/intutition-behind-xception-model/",
+      "date"     : "2020-10-28 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Changing Folder Name for model training",
       "subtitle" : "A very basic tutorial for changing file names",
       "tags"     : "python, filename, datascience, dog-breed",
       "url"      : "/hedwig_explains/2020/10/20/changing-folder-name-for-model-training/",
       "date"     : "2020-10-20 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "[Spirituality] Contemplating on Great Verses By Yogi Vasistha",
+      "subtitle" : "Great verses",
+      "tags"     : "spirituality, contemplating_series",
+      "url"      : "/hedwig_explains/2020/10/14/contemplating-on-great-verses-by-yogi-vasistha/",
+      "date"     : "2020-10-14 00:00:00 +0530"
     } ,
   
     {
