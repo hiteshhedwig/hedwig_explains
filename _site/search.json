@@ -9,6 +9,14 @@
     } ,
   
     {
+      "title"    : "Implementation of MobileNet Model",
+      "subtitle" : "Paper and Pytorch Code discussion",
+      "tags"     : "code, researchpaper, intuition, deeplearning, computervision",
+      "url"      : "/hedwig_explains/2020/11/01/intuition-behind-mobilenet-model/",
+      "date"     : "2020-11-01 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Implementation of Xception Model",
       "subtitle" : "Paper and Pytorch Code discussion",
       "tags"     : "code, researchpaper, intuition",
