@@ -70,7 +70,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-261774967'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-191510753-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
 
 
