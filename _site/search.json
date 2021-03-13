@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "[Random] An Era of Ignorance",
+      "subtitle" : "Just thoughts",
+      "tags"     : "random, spirituality, life, perception",
+      "url"      : "/hedwig_explains/2021/03/04/An_Era_of_Ignorance/",
+      "date"     : "2021-03-04 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Intuition behind Random Forest",
       "subtitle" : "Explaining random forest from scratch",
       "tags"     : "randomforest, datascience, intuition",
