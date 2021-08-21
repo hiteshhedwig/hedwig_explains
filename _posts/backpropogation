@@ -1,0 +1,14 @@
+# Intuitive Understanding of Backpropogation --
+
+Backpropogation is one of the most skipped/overlooked algorithms in Deep Learning Space. Involves Calculus, Gradient tracking and stuffs. In this blog, i will try to decode Backpropogation intuitively. Let's see how it goes,
+
+----
+
+I will be explaining in 3 parts :
+- FeedForward Algorithm [Optional To Read]
+- Intuition + Maths
+- Backpropogation Algorithm 
+
+
+## FeedForward Algorithm :
+
