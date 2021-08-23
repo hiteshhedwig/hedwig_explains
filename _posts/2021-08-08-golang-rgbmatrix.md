@@ -124,7 +124,7 @@ and now if you run `main.go`.
 
 [![Screenshot-from-2021-08-21-12-44-45.png](https://i.postimg.cc/FHxnhRQp/Screenshot-from-2021-08-21-12-44-45.png)](https://postimg.cc/xXcPR98N)
 
-Finally! After all this.
+Finally! After all this. Here's my [github repo](https://github.com/hiteshhedwig/rgbtest) incase you are interested in the code.
 
 This cloning method and following stuff my look bad to some. But please note. I did this because it gives better control to library. I can edit whatever i want or create anything new depending upon the use case.
 
