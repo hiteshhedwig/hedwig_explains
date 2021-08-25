@@ -118,7 +118,7 @@ Emulator is returned instead of a interface the real board.
 
 To do that, type:
 
-`export MATRIX_EMULATOR = 1`
+`export MATRIX_EMULATOR=1`
 
 and now if you run `main.go`.
 
