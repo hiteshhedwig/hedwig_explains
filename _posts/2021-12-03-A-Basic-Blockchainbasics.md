@@ -74,6 +74,10 @@ So, if i am using public key of my friend to send some message. My friend can on
 
 This method is highly popular in blockchain and digital signatures and gives promising results.
 
+If you are thinking that if private key can be stolen? -- YES, it can be. Like any other item. And the consequences can be severely nasty. Read about it in these excellent articles :
+One is [1](https://www.qredo.com/blog/proofofkeys-7-ways-private-keys-have-been-compromised-and-how-you-can-protect-yourself) , [2](https://halborn.com/stolen-keys-3-ways-you-can-keep-your-private-keys-safe/) , [3](https://www.blockchain-council.org/blockchain/can-blockchain-private-key-be-hacked/).
+
+
 
 ### Coding up :>
 
@@ -215,6 +219,8 @@ func main() {
 
 }
 ```
+
+
 
 
 ## Conclusion :
