@@ -55,7 +55,6 @@ BOTH KEYS CAN BE USED TO EITHER ENCRYPT OR DECRYPT A MESSAGE, AND THE OTHER KEY 
 I will only be able to decrypt message with private key. Since private key is a private to an individual only. 
 
 Lets understand from two people communication now, if i encrypt a message using public key of a person to whom i wanna send. Then no one would be able to decrypt it but the person who got private key. And that person will be the reciever.
-
 - Whatever encrypted with public key can only be decrypted by private key
 
 So basically, two keys  
