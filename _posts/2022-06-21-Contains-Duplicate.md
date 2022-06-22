@@ -4,7 +4,7 @@ title: "Contains Duplicate"
 subtitle: "DSA Solving and practicing"
 date: 2021-06-21
 author: "Hitesh Kumar"
-header-img: "img/leet1.jpg"
+header-img: "img/post-bg-os-metro.jpg"
 tags: [dsa, leetcode, golang]
 ---
  
