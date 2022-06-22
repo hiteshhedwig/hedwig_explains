@@ -2,7 +2,7 @@
 layout: post
 title: "Contains Duplicate"
 subtitle: "DSA Solving and practicing"
-date: 2021-06-22
+date: 2022-06-22
 author: "Hitesh Kumar"
 header-img: "img/post-bg-os-metro.jpg"
 tags: [dsa, leetcode, golang]
