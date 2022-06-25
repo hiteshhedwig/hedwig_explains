@@ -2,7 +2,7 @@
 layout: post
 title: "Maximum Subarray"
 subtitle: "DSA Solving and practicing"
-date: 2021-06-21
+date: 2022-06-22
 author: "Hitesh Kumar"
 header-img: "img/leet1.jpg"
 tags: [dsa, leetcode, golang]
