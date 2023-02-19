@@ -4,7 +4,7 @@ title: "How to learn ALMOST any programming language?"
 subtitle: "Learning programming languages"
 date: 2023-02-16
 author: "Hitesh Kumar"
-header-img: "img/learn_programming.jpg"
+header-img: "img/learn_programming_1.jpg"
 tags: [opinion, python, go, learning, hobby]
 ---
 
