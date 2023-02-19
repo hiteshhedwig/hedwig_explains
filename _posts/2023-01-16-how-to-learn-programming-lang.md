@@ -2,7 +2,7 @@
 layout: post
 title: "How to learn ALMOST any programming language?"
 subtitle: "Learning programming languages"
-date: 2022-03-16
+date: 2022-01-16
 author: "Hitesh Kumar"
 header-img: "img/learn_programming.jpg"
 tags: [opinion, python, go, learning, hobby]
