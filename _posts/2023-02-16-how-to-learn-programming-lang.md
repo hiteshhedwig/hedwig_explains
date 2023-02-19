@@ -2,7 +2,7 @@
 layout: post
 title: "How to learn ALMOST any programming language?"
 subtitle: "Learning programming languages"
-date: 2022-01-16
+date: 2023-02-16
 author: "Hitesh Kumar"
 header-img: "img/learn_programming.jpg"
 tags: [opinion, python, go, learning, hobby]
@@ -75,10 +75,6 @@ I had to learn this in my first job. Learning from previous experience, i approa
 Whether it be learning language as a hobby, experiment, professional journey. Pareto's rule (80:20) still holds, 80% of learning comes from 20% of the efforts. Those efforts must be in right direction. Although, most of the learning will come from the mistakes. But you also do want to respect and save time. Not always you'll have the luxury of spending huge amount of time. That's why it gets essential to put the effort just in the right place. And getting the job done and learning as a reward.
 
 A programming language can be used for desktop application, web servers, CLI, general purpose software development. But i believe there is one main branch which is basics and then there are expertises like android, full stack development, design, machine learning etc..
-
-[language basics]                       -------------> [full stack development]
------------------------------> -------------> [android]
-													------------->  so-on and on
 
 
 The guide above does not deal with expertise domain. Only scope is to talks about possible right approch for learning new programming language. 
