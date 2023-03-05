@@ -78,7 +78,7 @@ ga_track_id: 'UA-191510753-1'            # Format: UA-xxxxxx-xx
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Mundane World with beautiful perception"
-sidebar-avatar: '/hedwig_explains/img/avatar-hux-ny.jpg'      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: '/hedwig_explains/img/profile.jpg'      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
