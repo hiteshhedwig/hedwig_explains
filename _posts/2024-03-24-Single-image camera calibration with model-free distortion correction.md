@@ -16,6 +16,8 @@ Camera calibration is important in the variety of task from image stitching to 3
 _Disclaimer - No, this is not ChatGPT generated post. I truly want to learn and understand things. However, i have used chatgpt to comprehend some equations and graphs presented in the paper._
 
 
+CHECK OUT THE PAPER - [Arxiv Link](https://arxiv.org/abs/2403.01263)
+
 ## Technical abbreviation - 
 1. **DIC** - Digital Image Correlation
 2. **SIC** - Single Image Calibration
