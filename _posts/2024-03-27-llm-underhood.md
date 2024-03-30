@@ -5,7 +5,7 @@ subtitle: "what actually is LLM ?"
 date: 2024-03-27
 author: "Hitesh Kumar"
 header-img: "img/llm-underhood/assets/pexels-andrew-neel-3178786.jpg"
-tags: [lidar, sensor, hardware, working, theory]
+tags: [llm, attention, transformer, AI, theory]
 ---
 
 
