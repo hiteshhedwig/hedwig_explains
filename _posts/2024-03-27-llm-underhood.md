@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Explained : Attention mechanisam & Transformers"
+title: "Explained : Attention mechanism & Transformers"
 subtitle: "what actually is LLM ?"
 date: 2024-03-27
 author: "Hitesh Kumar"
